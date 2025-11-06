@@ -24,19 +24,44 @@ I'm an undergraduate from BITS Pilani, passionate about building high-performanc
 
 ---
 
-### 📌 Featured Projects
+# 📌 Featured Projects
 
-- 🔁 **Crypto Trading System**  
-  Low-latency C++ system using WebSockets for Deribit exchange — supports order placement, cancellation, and real-time order book syncing
+### 🔁 Crypto Trading System
+* Developed a low-latency C++ trading system using WebSockets to interface with the Deribit exchange.
+* Implemented core functionalities including order placement, cancellation, and real-time order book synchronization.
 
-- ✍️ **Probabilistic Misspelling Correction**  
-  NLP model using n-gram token prediction with Good-Turing and Kneser-Ney smoothing, Damerau-Levenshtein distance — 85%+ accuracy
+### ✍️ Probabilistic Misspelling Correction
+* Built an NLP model for misspelling correction based on n-gram token prediction.
+* Implemented advanced smoothing techniques (Good-Turing and Kneser-Ney) and used Damerau-Levenshtein distance for candidate generation.
+* Achieved over 85% correction accuracy on test datasets.
 
-- 🧮 **PageRank Algorithm**  
-  Optimized PageRank with sparse matrix representation and hashmaps — O(n) time with damping factor and convergence guarantees
+### 🧮 Optimized PageRank Algorithm
+* Implemented an optimized PageRank algorithm using sparse matrix representations and hashmaps for efficiency.
+* Achieved O(n) time complexity per iteration, incorporating a damping factor and ensuring convergence guarantees.
 
-- 🛠 **Custom Compiler for Expression Language**  
-  Compiles a statically typed language (E++) to machine code using AVL trees and min-heaps for memory-efficient variable allocation
+### 🛠 Custom Compiler for Expression Language (E++)
+* Designed and built a compiler for a custom statically typed language (E++).
+* Translates E++ source code directly into machine code.
+* Utilized AVL trees and min-heaps for highly memory-efficient variable allocation and management.
+
+### 🎨 Denoising Diffusion Probabilistic Models (DDPMs)
+* Implemented DDPMs in PyTorch for high-fidelity, realistic image generation, utilizing the `denoising-diffusion-pytorch` library.
+* Constructed scalable U-Net-based diffusion pipelines to ensure efficient and high-quality generative modeling.
+
+### 📜 Character-Level Text Generation (RNN)
+* Built a multi-layer character-level RNN (using LSTM/GRU cells) in PyTorch for next-character prediction.
+* Trained the model on a diverse corpus of Shakespearean and modern English texts.
+* Integrated attention mechanisms, AdamW optimization, and dropout to improve model perplexity and capture long-term dependencies.
+
+### 📈 Stock Price Prediction (HMM)
+* Developed a stock price predictor using Hidden Markov Models (HMMs).
+* Model outperformed Support Vector Regression (SVR) on volatile stocks, evaluated using BIC and MAPE.
+* Achieved approximately 1% prediction error on real-world data from Google, Apple, Qualcomm, and Comcast.
+
+### 🤖 ML Classifiers from Scratch (SVM, Bagging, Boosting)
+* Implemented hard and soft-margin Support Vector Machines (SVM) with linear and RBF kernels from scratch, using `cvxopt` for quadratic optimization.
+* Built Adaboost and an error-weighted Random Forest from scratch, including bootstrapping and optimization logic.
+* Achieved 94% accuracy on the MNIST dataset.
 
 ---
 
