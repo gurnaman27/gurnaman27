@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Gurnaman Kaur
 
-I'm an undergraduate from BITS Pilani, passionate about building high-performance systems, solving algorithmic problems, and using AI to drive real-world impact.  
+I'm an undergraduate from BITS Pilani, passionate about building high-performance systems, solving algorithmic problems, and using AI to drive real-world impact.
 
-👩‍💻 Currently exploring the intersection of **AI, education, and social impact**.  
+👩‍💻 Currently exploring the intersection of **AI, Personal Knowledge Management, and Distributed Systems**.
 🔥 Competitive Programmer | 🧠 AI & Systems Enthusiast | 📊 Quantitative Systems Builder
 
 ---
 
 ### ⚡ What I'm Up To
 
-- 🤖 Prototyping an **AI-powered virtual school** for underprivileged children
+- 🧠 Building **Omni-Recall**, an AI-powered personal memory and context retention system
 - 🔬 Researching **Retrieval-Augmented Generation (RAG)** and building robust LLM pipelines
 - 📈 Studying **System Design**, **Distributed Systems**, and **Low-Latency Architectures**
 - 📊 Practicing **Quantitative Programming** & working on **real-time trading algorithms**
@@ -18,13 +18,27 @@ I'm an undergraduate from BITS Pilani, passionate about building high-performanc
 
 ### 🧠 Skills
 
-`C++` `Python` `Java` `React` `Node.js` `MongoDB`  
-`Machine Learning` `NLP` `RAG` `Docker` `AWS`  
+`C++` `Python` `Kotlin` `Java` `React` `Node.js`
+`Machine Learning` `NLP` `RAG` `Docker` `AWS`
 `Data Structures` `Algorithms` `System Design` `OS` `Concurrency`
 
 ---
 
+### 💼 Work Experience
+
+**Morgan Stanley** | *Quantitative Analyst Intern*
+*Jan 2026 – June 2026 | Mumbai, India*
+* Incoming intern for the Spring 2026 cohort.
+* Working within the Legal and Compliance Division to apply quantitative methods and system building to risk and compliance challenges.
+
+---
+
 # 📌 Featured Projects
+
+### 🧠 Omni-Recall (AI Memory Assistant)
+* Developing a cross-platform personal knowledge management system (Android & Web) designed to ingest and index user context in real-time.
+* Implemented Android Accessibility Services and browser extensions to capture visual and textual data streams.
+* Integrating multimodal LLMs (OpenAI/DeepSeek) to enable semantic search and "recall" of past digital interactions via natural language querying.
 
 ### 🔁 Crypto Trading System
 * Developed a low-latency C++ trading system using WebSockets to interface with the Deribit exchange.
@@ -67,15 +81,15 @@ I'm an undergraduate from BITS Pilani, passionate about building high-performanc
 
 ### 📚 Interests
 
-- Quantitative Finance & Statistical Arbitrage  
-- AI in Education & Literacy  
-- Distributed Systems & Sandbox Security  
+- Quantitative Finance & Statistical Arbitrage
+- Personal Knowledge Systems & Memory Augmentation
+- Distributed Systems & Sandbox Security
 - Model Compression, Retrieval, and Multimodal Learning
 
 ---
 
 ### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurnamanKaur-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gurnaman-kaur-2a4243259/)  
-📬 gurnaman27@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GurnamanKaur-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/gurnaman-kaur-2a4243259/)
+📬 gurnaman27@gmail.com
 📍 Lucknow, India
