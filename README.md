@@ -28,7 +28,7 @@ I'm an undergraduate from BITS Pilani, passionate about building high-performanc
 
 **Morgan Stanley** | *Quantitative Analyst Intern*
 *Jan 2026 – June 2026 | Mumbai, India*
-* Incoming intern for the Spring 2026 cohort.
+* Intern for the Spring 2026 cohort.
 * Working within the Legal and Compliance Division to apply quantitative methods and system building to risk and compliance challenges.
 
 ---
